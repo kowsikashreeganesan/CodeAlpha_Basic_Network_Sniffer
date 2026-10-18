@@ -1,38 +1,39 @@
 Basic Network Sniffer
 
 Project Overview
-        The Basic Network Sniffer is a Python-based cybersecurity project developed as part of the CodeAlpha internship. It captures and displays network packets using the Scapy library.
+          
+The Basic Network Sniffer is a Python-based cybersecurity project developed as part of the CodeAlpha internship. It captures and displays network packets using the Scapy library.
 
 Objective
 
-        To develop a basic network sniffer that captures network packets and displays information about them.
+To develop a basic network sniffer that captures network packets and displays information about them.
 
 Technologies Used
 
-       - Python 3.14.7
-       - Scapy 2.8.0
-       - Npcap
-       - Visual Studio Code
-       - Windows 11
+- Python 3.14.7
+- Scapy 2.8.0
+- Npcap
+- Visual Studio Code
+- Windows 11
 
 Features
 
-       - Captures up to 10 network packets.
-       - Displays packet summaries.
-       - Shows source and destination IP addresses when available.
-       - Identifies TCP, UDP, and ICMP packets.
-       - Displays a completion message after packet capture.
+- Captures up to 10 network packets.
+- Displays packet summaries.
+- Shows source and destination IP addresses   when available.
+- Identifies TCP, UDP, and ICMP packets.
+- Displays a completion message after  packet capture.
 
 Requirements
 
-       - Python installed on your computer.
-       - Scapy library.
-       - Npcap installed on Windows.
+- Python installed on your computer.
+- Scapy library.
+- Npcap installed on Windows.
 
 Installation
 
-       Install Scapy using the following command:py -m pip install scapy
-       Install Npcap from the official website if it is not already installed:https://npcap.com/
+Install Scapy using the following command:py -m pip install scapy
+Install Npcap from the official website if it is not already installed:https://npcap.com/
 
 How to Run
 
@@ -46,11 +47,11 @@ How to Run
 
 Sample Result
 
-       The program displays packet information in the terminal and finishes after capturing 10 packets.
+The program displays packet information in the terminal and finishes after capturing 10 packets.
 
 Ethical Considerations
 
-       Use this tool only on your own device or networks for which you have permission. Do not capture, store, or share other people's network traffic without authorization.
+Use this tool only on your own device or networks for which you have permission. Do not capture, store, or share other people's network traffic without authorization.
 
 Author
 
