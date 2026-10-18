@@ -1,7 +1,6 @@
 Basic Network Sniffer
 
 Project Overview
-
         The Basic Network Sniffer is a Python-based cybersecurity project developed as part of the CodeAlpha internship. It captures and displays network packets using the Scapy library.
 
 Objective
